@@ -9,7 +9,7 @@ function App() {
       <h1>Bryan Luzardo</h1>
       <img src={cheemsImg} alt="cheems imgeniero" />
       <h2 className='construccion uno'>Sitio en construccion</h2>
-      <h2 className='construccion dos'>Solo para probar tarea</h2>
+      <h2 className='construccion dos'>Para entregar tarea GIT</h2>
       <video loop autoPlay muted src={videoFondo}></video>
     </>
   )
